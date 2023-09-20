@@ -1,0 +1,53 @@
+.soc-www:hover{
+    opacity: 0.6;
+}
+#arrow-up {
+     display: none;
+     position: fixed;
+     bottom: 15%;
+     right: 10%;
+     width: 50px;
+     height: 50px;
+     text-align: center;
+      cursor: pointer;
+	 z-index: 2;
+}
+#img-to-top{
+     width: 100%;
+     height: 100%;
+     opacity: 0.5;
+} 
+h1 {
+    font-family: 'Times New Roman','Verdana', serif;
+    font-style: italic;
+    font-weight:100;
+    color:grey;
+}
+ 
+ 
+ 
+.center-div {
+    margin: 0 auto;
+    width: 80%;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid green;
+    border-radius: 20px;
+ 
+}
+.second-div {
+    margin: 50px auto;
+    width: 80%;
+    min-height: 400px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid green;
+ 
+}
+table{
+  width: 70%;
+}
+  
